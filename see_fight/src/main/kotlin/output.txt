@@ -1,0 +1,4 @@
+HIT
+MISS
+DEAD
+MISS
