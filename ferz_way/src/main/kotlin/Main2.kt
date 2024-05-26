@@ -1,3 +1,4 @@
+/*
 import java.io.File
 
 data class Position(val x: Int, val y: Int) // позиция шахмотной доски
@@ -112,3 +113,4 @@ fun main() {
         File("D://algos//ferz_way//src//main//kotlin//output.txt").writeText(output.trim())
     }
 }
+*/
